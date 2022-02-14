@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.stackelem{
+  margin-top: 10px;
+  padding: 16px 15px 16px 16px;
+  background-color: rgb(150, 221, 174);
+  border-radius: 30px;
+}
+
